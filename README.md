@@ -1,4 +1,4 @@
-# Konference-Administrations-Systemet (KAS)
+# Konference Administrations Systemet (KAS)
 
 Projektet omhandlede udviklingen af et KonferenceAdministrationsSystem (KAS) til administration af miljøkonferencer. 
 Formålet med systemet var at automatisere og forbedre administrationen af konferencetilmeldinger, som tidligere blev håndteret manuelt via tekstbehandling og regneark. 
